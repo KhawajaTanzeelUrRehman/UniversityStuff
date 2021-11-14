@@ -8,6 +8,7 @@ public:
 	int size;
 	int top;
 	string* arr;
+	cout<<"Hello";
 
 	stack() {
 		//Defualt constructor for the stack.
